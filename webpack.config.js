@@ -235,6 +235,9 @@ const config = [
   library_prod("leaflet.BounceMarker", "lfx-bouncemarker"),
   library_binding("lfx-bouncemarker"),
 
+  // "leaflet-lasso": "github:https://github.com/zakjan/leaflet-lasso#2.6.6",
+  library_prod("leaflet-lasso", "lfx-lasso"),
+  library_binding("lfx-lasso"),
 
   library_binding("map-widget-style")
 
